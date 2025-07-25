@@ -9,3 +9,4 @@ public class Mul {
     System.out.println(c);
   }
 }
+ 
